@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+.DS_Store
+outputs/
+checkpoints/
+logs/
+wandb/
+extra_datasets/
+*.parquet
+*.pt
+*.ckpt
+*.log
